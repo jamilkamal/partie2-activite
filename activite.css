@@ -1,1 +1,12 @@
-
+h1
+{
+  color: brown;
+  font-size: 30px;
+  font-family: Verdana,Arial,sans-serif;
+}
+p
+{
+  text-align: center;
+  font-size: 18px;
+  background-color: yellow;
+}
